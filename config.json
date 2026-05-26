@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydalculate",
+        "uuid": 3070075,
+        "checksum": "jat3aq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
